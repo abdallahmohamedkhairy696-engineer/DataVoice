@@ -3,16 +3,16 @@
 
 # ExcelSpeak - AI-Powered Data Analytics Platform
 
-© Copyright 2024 Ahmed Mohamed Khairy. All Rights Reserved.
+© Copyright 2024 Abdallah Mohamed Khairy. All Rights Reserved.
 ### 📋Statement of originality
 #### This project is entirely **my own original work**,developed from scratch 
 #### **No plagiarism**: No part of this repo has been copied from external sources or other developers 
-#### **Full Accountability** I , [Ahmed], assume full legal and professional responsibility for the authenticity of this 
-For technical inquiries or business opportunities: ahmedmohamedkhairy123@gmail.com
+#### **Full Accountability** I , [Abdallah], assume full legal and professional responsibility for the authenticity of this 
+For technical inquiries or business opportunities: abdallahmohamedkhairy696@gmail.com
 # 🚀 Live Demo (please wait 5 seconds to see the GIF)
 ![Project Demo](./demo.gif)
 [![Vercel Deployment](https://img.shields.io/badge/Live%20Demo-Vercel-black)](https://excel-speak-three.vercel.app/)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ahmedmohamedkhairy123/ExcelSpeak)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/abdallahmohamedkhairy696-engineer/DataVoice.git)
 
 ## 📋 Overview
 
@@ -75,7 +75,7 @@ ExcelSpeak is a professional, AI-driven data analytics platform that transforms 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/ahmedmohamedkhairy123/ExcelSpeak.git
+git clone https://github.com/abdallahmohamedkhairy696-engineer/DataVoice.git
 cd ExcelSpeak
 ```
 
@@ -233,11 +233,11 @@ The project includes GitHub Actions workflow that automatically:
 
 ## 📄 License
 
-© Copyright 2024 Ahmed Mohamed Khairy. All Rights Reserved.
+© Copyright 2024 Abdallah Mohamed Khairy. All Rights Reserved.
 
 This project is proprietary software. All rights to the source code, design, and functionality are reserved by the copyright holder.
 
-**For licensing inquiries, technical consultations, or business partnerships, please contact:** ahmedmohamedkhairy123@gmail.com
+**For licensing inquiries, technical consultations, or business partnerships, please contact:** abdallahmohamedkhairy696@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -250,13 +250,13 @@ This project is proprietary software. All rights to the source code, design, and
 ## 📞 Contact & Support
 
 **Technical Support & Business Inquiries:**
-- Email: ahmedmohamedkhairy123@gmail.com
+- Email: abdallahmohamedkhairy696@gmail.com
 - GitHub Issues: For bug reports and feature requests
-- LinkedIn: [Ahmed Mohamed Khairy](https://www.linkedin.com/in/ahmed-mohamed-khairy-b5ab4b367)
+- LinkedIn: [Abdallah Mohamed Khairy]()
 
 ---
 
-**Built with ❤️ by Ahmed Mohamed Khairy | © 2024 All Rights Reserved**
+**Built with ❤️ by Abdallah Mohamed Khairy | © 2024 All Rights Reserved**
 ```
 
 ---
